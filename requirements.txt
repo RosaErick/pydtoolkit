@@ -1,0 +1,2 @@
+# Dependencies for Digital Forensics Toolkit
+pytsk3
